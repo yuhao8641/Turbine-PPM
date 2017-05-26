@@ -1,0 +1,14 @@
+﻿<Window x:Class="Turbine_PPM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="透平项目管理平台" Height="453" Width="749" Loaded="Window_Loaded"
+        ResizeMode="CanResize">
+    <DockPanel Name="dockPanel1" >
+        
+        <Menu DockPanel.Dock="Top" Height="23" Name="menu1"  />
+
+            <Grid DockPanel.Dock="Bottom"  Name="grid1">
+            <Button Content="Button" Height="33" HorizontalAlignment="Left" Margin="60,104,0,0" Name="button1" VerticalAlignment="Top" Width="116" Click="button1_Click" />
+        </Grid>
+    </DockPanel>
+</Window>

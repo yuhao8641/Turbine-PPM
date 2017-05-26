@@ -1,0 +1,17 @@
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\bin\Debug\Turbine PPM.exe
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\bin\Debug\Turbine PPM.pdb
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\MainWindow.baml
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\MyPage\wd_login.baml
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\MainWindow.g.cs
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\MyPage\wd_login.g.cs
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\App.g.cs
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\Turbine PPM_MarkupCompile.cache
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\Turbine PPM.g.resources
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\Turbine_PPM.Properties.Resources.resources
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\Turbine PPM.csproj.GenerateResource.Cache
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\Turbine PPM.exe
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\Turbine PPM.pdb
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\Turbine PPM.csprojResolveAssemblyReference.cache
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\bin\Debug\nunit.framework.dll
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\bin\Debug\nunit.framework.xml
+D:\CSharp Works\Turbine PPM\Turbine PPM\Turbine PPM\obj\x86\Debug\App.baml
